@@ -1,4 +1,8 @@
-### Hello~ 👋
-- :star:  Php Go Vue~
+<div align="center">
+ 😄 Hi there, I'm RainX, Welcome~~ 👋 <br/><br/>
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=xuyu199742&show_icons=true&theme=algolia&hide=contribs,prs" alt="Aceld's github stats" /> 
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=xuyu199742&layout=compact&theme=algolia" />
+<div style="clear: both"></div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuyu199742&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+<br/>
+
